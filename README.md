@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phucvien2511)](https://github.com/phucvien2511?tab=repositories)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phucvien2511&hide=makefile,assembly)](https://github.com/phucvien2511?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phucvien2511&hide=makefile,assembly&exclude_repo=mpu-mcu-lab5)](https://github.com/phucvien2511?tab=repositories)
